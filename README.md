@@ -1,2 +1,2 @@
-# trading-bot
+# Trading-Bot
 Trading Bot
